@@ -59,7 +59,7 @@ and for the Artix 7 based Nexys A7.
 To start with Wildcat either fork the project or clone it from here with:
 
 ```
-git clone --recursive git@github.com:schoeberl/wildcat.git
+git clone --recursive git@github.com:Berspitze/wildcat-cache-impl.git
 cd wildcat
 ```
 
